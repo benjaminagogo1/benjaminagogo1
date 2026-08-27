@@ -37,7 +37,7 @@
 
 
 
----
+```
 
 ## About Me
 
@@ -51,4 +51,28 @@ With a background in healthcare, I have a particular interest in using technolog
 
 My long-term goal is to become an engineer capable of taking a real-world problem, understanding the system behind it, and building the technology required to solve it — from the user interface and backend to intelligent models, connected devices, and physical systems.
 
+```
+```
+## What I'm Building
 
+I'm building my engineering capabilities through practical projects that progressively connect software, data, AI, and eventually physical systems.
+
+### 🛡️ Real-World Software
+
+Building applications that address practical problems rather than stopping at programming exercises.
+
+### 🌐 Full-Stack Systems
+
+Learning to design and build complete applications across the frontend, backend, APIs, databases, and deployment.
+
+### 🤖 Intelligent Systems
+
+Exploring how artificial intelligence can be integrated into useful software and real-world systems.
+
+### ⚙️ Embedded Systems & IoT
+
+My longer-term direction is to connect software with the physical world through embedded systems, sensors, devices, and IoT.
+
+### 🏥 Technology for Impact
+
+Applying my healthcare background to identify problems where technology can improve processes, accessibility, decision-making, and outcomes — while remaining open to other domains such as agriculture.
