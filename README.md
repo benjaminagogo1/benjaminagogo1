@@ -103,3 +103,47 @@ Applying my healthcare background to identify problems where technology can impr
 ### Exploring
 
 AI / Machine Learning · Embedded Systems · IoT
+
+
+
+---
+
+## Featured Projects
+
+### 🛡️ Agro-Shield
+
+An agricultural technology project focused on solving practical problems through software.
+
+**Focus:** Real-world problem solving · Software Engineering · Agriculture
+
+[View Project →](https://github.com/benjaminagogo1/Agro-Shield)
+
+---
+
+### 🚀 FlyRank Internship
+
+Backend engineering projects developed during my FlyRank internship, covering APIs, web scraping, data processing, validation, automation, testing, and production-oriented development.
+
+**Focus:** Python · FastAPI · APIs · Testing · Docker
+
+[View Project →](https://github.com/benjaminagogo1/FlyRank-internship)
+
+---
+
+### 🐹 Go Engineering Journey
+
+A structured collection of Go exercises, experiments, and projects documenting my progression from fundamentals toward deeper software engineering concepts.
+
+**Focus:** Go · Software Engineering · Systems Programming
+
+[View Project →](https://github.com/benjaminagogo1/my-journey-to-go-mastery)
+
+---
+
+### 📄 PDF Report Generator
+
+A Python project for generating structured PDF reports programmatically.
+
+**Focus:** Python · Automation · Document Generation
+
+[View Project →](https://github.com/benjaminagogo1/Pdf-Report-Generator)
