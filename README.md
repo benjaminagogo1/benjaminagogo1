@@ -188,3 +188,19 @@ INTELLIGENT REAL-WORLD SYSTEMS
 - 📡 Learning how software connects with physical devices through IoT
 - 🏥 Exploring opportunities to apply technology to healthcare
 - 🌱 Exploring technology-driven solutions for agriculture
+
+
+
+
+
+---
+
+## Engineering Philosophy
+
+I believe good engineering starts with understanding the problem before choosing the technology.
+
+I focus on building from first principles, understanding how systems work internally, and turning complex problems into smaller, testable components.
+
+I'm interested not only in writing code, but in understanding how software interacts with data, networks, devices, people, and the physical world.
+
+My goal is to build systems that are useful, reliable, understandable, and capable of solving real problems.
