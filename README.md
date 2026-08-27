@@ -147,3 +147,32 @@ A Python project for generating structured PDF reports programmatically.
 **Focus:** Python · Automation · Document Generation
 
 [View Project →](https://github.com/benjaminagogo1/Pdf-Report-Generator)
+
+
+
+---
+
+## Engineering Journey
+
+My learning path is intentional: I am building a strong software engineering foundation first, then progressively expanding into intelligent and connected systems.
+
+```text
+SOFTWARE ENGINEERING
+        │
+        ▼
+FULL-STACK DEVELOPMENT
+        │
+        ▼
+SYSTEMS & APIs
+        │
+        ▼
+ARTIFICIAL INTELLIGENCE
+        │
+        ▼
+EMBEDDED SYSTEMS
+        │
+        ▼
+IoT & CONNECTED DEVICES
+        │
+        ▼
+INTELLIGENT REAL-WORLD SYSTEMS
