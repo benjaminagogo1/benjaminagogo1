@@ -213,6 +213,6 @@ My goal is to build systems that are useful, reliable, understandable, and capab
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjaminagogo1&show_icons=true&hide_border=true&rank_icon=github" alt="Benjamin Agogo's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminagogo1&layout=compact&hide_border=true" alt="Benjamin Agogo's most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benjaminagogo1&show_icons=true&hide_border=true&rank_icon=github" alt="Benjamin Agogo's GitHub statistics" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminagogo1&layout=compact&hide_border=true" alt="Benjamin Agogo's most used languages" /> 
 </p>
