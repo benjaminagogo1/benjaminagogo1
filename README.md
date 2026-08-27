@@ -204,3 +204,15 @@ I focus on building from first principles, understanding how systems work intern
 I'm interested not only in writing code, but in understanding how software interacts with data, networks, devices, people, and the physical world.
 
 My goal is to build systems that are useful, reliable, understandable, and capable of solving real problems.
+
+
+
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benjaminagogo1&show_icons=true&hide_border=true&rank_icon=github" alt="Benjamin Agogo's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminagogo1&layout=compact&hide_border=true" alt="Benjamin Agogo's most used languages" />
+</p>
