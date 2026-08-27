@@ -176,3 +176,15 @@ IoT & CONNECTED DEVICES
         │
         ▼
 INTELLIGENT REAL-WORLD SYSTEMS
+
+```
+---
+
+## Currently Exploring
+
+- 🧩 Deepening my full-stack engineering skills
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- ⚙️ Preparing to move into embedded systems
+- 📡 Learning how software connects with physical devices through IoT
+- 🏥 Exploring opportunities to apply technology to healthcare
+- 🌱 Exploring technology-driven solutions for agriculture
