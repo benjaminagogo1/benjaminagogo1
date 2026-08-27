@@ -79,8 +79,7 @@ Applying my healthcare background to identify problems where technology can impr
 
 
 ---
-`
-                  # Technology
+# Technology
 
 ## Languages
 
