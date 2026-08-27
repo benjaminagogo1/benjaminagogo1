@@ -216,3 +216,14 @@ My goal is to build systems that are useful, reliable, understandable, and capab
   <img src="https://github-readme-stats.vercel.app/api?username=benjaminagogo1&show_icons=true&hide_border=true&rank_icon=github" alt="Benjamin Agogo's GitHub statistics" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminagogo1&layout=compact&hide_border=true" alt="Benjamin Agogo's most used languages" /> 
 </p>
+
+
+---
+
+## Connect
+
+I'm always interested in learning, building, collaborating, and connecting with other people working on interesting technology.
+
+- 💼 [LinkedIn](www.linkedin.com/in/otete-benjamin-agogo-03861b210)
+- 🐙 [GitHub](https://github.com/benjaminagogo1)
+- 📧 [Email](josephbenjamin046@gmail.com)
