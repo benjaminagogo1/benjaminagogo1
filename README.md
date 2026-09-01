@@ -116,7 +116,7 @@ An agricultural technology project focused on solving practical problems through
 
 **Focus:** Real-world problem solving · Software Engineering · Agriculture
 
-[View Project →](https://github.com/benjaminagogo1/Agro-Shield)
+[View Project →](https://github.com/etoosammy01-oss/Agro-Shield.git)
 
 ---
 
