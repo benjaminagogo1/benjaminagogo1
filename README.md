@@ -60,6 +60,16 @@ flowchart TB
     class J,K,L,M realworld
 
 
+    class A foundation
+    class B,D,E,F software
+    class C,G,H,I physical
+    class J,K,L,M realworld
+
+    linkStyle default stroke:#8b949e,stroke-width:1.5px
+```
+
+## Features
+
 
 ```
 
