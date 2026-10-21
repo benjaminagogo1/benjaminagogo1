@@ -1,6 +1,23 @@
 # Otete Benjamin Agogo
 
-### Software Engineer
+### Software Engineer | Full-stack Development · AI · Connected Systems
+
+**Engineering × AI × Healthcare**
+
+Building software, intelligent systems, and connected technology to solve real-world problems.
+
+I’m developing across the software and physical sides of engineering — from full-stack applications and backend systems to artificial intelligence, embedded systems, and the Internet of Things (IoT).
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Software%20Engineering-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Full--Stack-0969DA?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-stack Development" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6E40C9?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Healthcare%20Technology-168A83?style=for-the-badge&logo=heart&logoColor=white" alt="Healthcare Technology" />
+</p>
+
+---
+
+[Explore My Projects](#what-im-building) · [My Engineering Journey](#engineering-journey) · [Connect With Me](#connect)
 
 > Building software, intelligent systems, and connected technology to solve real-world problems.
 
