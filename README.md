@@ -17,7 +17,7 @@ I’m developing across the software and physical sides of engineering — from 
 
 ---
 
-[Explore My Projects](#what-im-building) · [My Engineering Journey](#engineering-journey) · [Connect With Me](#connect)
+[Explore My Projects](#what-feature-projects) · [My Engineering Journey](#engineering-journey) · [Connect With Me](#connect)
 
  Building software, intelligent systems, and connected technology to solve real-world problems.
 
