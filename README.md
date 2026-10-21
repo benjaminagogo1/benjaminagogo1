@@ -143,44 +143,37 @@ AI / Machine Learning · Embedded Systems · IoT
 
 ## Featured Projects
 
-### 🛡️ Agro-Shield
+*Selected projects demonstrating my approach to software engineering and real-world problem-solving.*
 
-An agricultural technology project focused on solving practical problems through software.
-
-**Focus:** Real-world problem solving · Software Engineering · Agriculture
-
-[View Project →](https://github.com/etoosammy01-oss/Agro-Shield.git)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 Personal Finance Tracking System</h3>
+      <p>A software engineering project focused on organizing personal financial records, managing expenses, and building reliable application functionality.</p>
+      <p><strong>Focus areas</strong></p>
+      <p>Application Architecture · Data Management · API Development</p>
+      <p><a href="https://github.com/benjaminagogo1/software-engineering-laboratory">View Repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 PDF Report Generator</h3>
+      <p>A backend report-generation service that transforms database data into multi-page PDF reports through FastAPI, SQL aggregation, and headless Chromium.</p>
+      <p><strong>Technologies</strong></p>
+      <p>Python · FastAPI · SQL · Chromium</p>
+      <p><a href="https://github.com/benjaminagogo1/Pdf-Report-Generator">View Repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌱 Agro-Shield</h3>
+      <p>A collaborative agricultural technology project intended to address real-world challenges in the agricultural ecosystem.</p>
+      <p><strong>Focus area</strong></p>
+      <p>Agricultural Technology · Collaborative Engineering</p>
+      <p><a href="https://github.com/etoosammy01-oss/Agro-Shield">View Team Repository →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
-
-### 🚀 FlyRank Internship
-
-Backend engineering projects developed during my FlyRank internship, covering APIs, web scraping, data processing, validation, automation, testing, and production-oriented development.
-
-**Focus:** Python · FastAPI · APIs · Testing · Docker
-
-[View Project →](https://github.com/benjaminagogo1/FlyRank-internship)
-
----
-
-### 🐹 Go Engineering Journey
-
-A structured collection of Go exercises, experiments, and projects documenting my progression from fundamentals toward deeper software engineering concepts.
-
-**Focus:** Go · Software Engineering · Systems Programming
-
-[View Project →](https://github.com/benjaminagogo1/my-journey-to-go-mastery)
-
----
-
-### 📄 PDF Report Generator
-
-A Python project for generating structured PDF reports programmatically.
-
-**Focus:** Python · Automation · Document Generation
-
-[View Project →](https://github.com/benjaminagogo1/Pdf-Report-Generator)
-
 
 
 ---
