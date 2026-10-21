@@ -5,7 +5,7 @@
 > Building software, intelligent systems, and connected technology to solve real-world problems.
 
 
-                                          ---
+                                          
 
 ## Engineering Direction
 
