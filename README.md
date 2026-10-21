@@ -256,10 +256,10 @@ I'm always interested in learning, building, collaborating, and connecting with 
   <a href="https://github.com/benjaminagogo1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="www.linkedin.com/in/otete-benjamin-agogo-03861b210">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_FACEBOOK_PROFILE_URL">
+  <a href="https://www.facebook.com/profile.php?id=61573088355413">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
