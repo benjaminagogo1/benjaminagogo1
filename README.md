@@ -26,29 +26,38 @@ I’m developing across the software and physical sides of engineering — from 
 
 ## Engineering Direction
 
-```text
-                         SOFTWARE ENGINEERING
-                                  │
-                ┌─────────────────┴─────────────────┐
-                │                                   │
-         SOFTWARE SYSTEMS                     PHYSICAL SYSTEMS
-                │                                   │
-           FULL-STACK                         EMBEDDED SYSTEMS
-                │                                   │
-          Backend / APIs                            IoT
-                │                                   │
-                └──────────────┬────────────────────┘
-                               │
-                         INTELLIGENT SYSTEMS
-                               │
-                              AI/ML
-                               │
-                               ▼
-                       REAL-WORLD SYSTEMS
-                               │
-                ┌──────────────┼──────────────┐
-                │              │              │
-           Healthcare      surveillance    Other Domains
+
+```mermaid
+flowchart TB
+    A["SOFTWARE ENGINEERING<br/>Core Engineering Foundation"]
+
+    A --> B["SOFTWARE SYSTEMS"]
+    A --> C["PHYSICAL SYSTEMS"]
+
+    B --> D["Full-stack Development"]
+    D --> E["Backend & APIs"]
+    E --> F["AI & Machine Learning"]
+
+    C --> G["Embedded Systems"]
+    G --> H["Internet of Things (IoT)"]
+    H --> I["Hardware + Software"]
+
+    F --> J["REAL-WORLD SYSTEMS"]
+    I --> J
+
+    J --> K["Healthcare"]
+    J --> L["Agriculture"]
+    J --> M["Other Domains"]
+
+    classDef foundation fill:#1f3a5f,stroke:#58a6ff,color:#ffffff,stroke-width:2px
+    classDef software fill:#102d4f,stroke:#388bfd,color:#ffffff
+    classDef physical fill:#123524,stroke:#3fb950,color:#ffffff
+    classDef realworld fill:#35204f,stroke:#bc8cff,color:#ffffff,stroke-width:2px
+
+    class A foundation
+    class B,D,E,F software
+    class C,G,H,I physical
+    class J,K,L,M realworld
 
 
 
