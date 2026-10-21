@@ -2,9 +2,9 @@
 
 ### Software Engineer | Full-stack Development · AI · Connected Systems
 
-**Engineering × AI × Healthcare**
+**Engineering | AI | Healthcare**
 
-Building software, intelligent systems, and connected technology to solve real-world problems.
+> Building software, intelligent systems, and connected technology to solve real-world problems.
 
 I’m developing across the software and physical sides of engineering — from full-stack applications and backend systems to artificial intelligence, embedded systems, and the Internet of Things (IoT).
 
@@ -19,7 +19,7 @@ I’m developing across the software and physical sides of engineering — from 
 
 [Explore My Projects](#what-im-building) · [My Engineering Journey](#engineering-journey) · [Connect With Me](#connect)
 
-> Building software, intelligent systems, and connected technology to solve real-world problems.
+ Building software, intelligent systems, and connected technology to solve real-world problems.
 
 
                                           
