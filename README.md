@@ -25,7 +25,48 @@ I’m developing across the software and physical sides of engineering — from 
                                           
 
 ## Engineering Direction
+```mermaid
+flowchart TB
+    A["SOFTWARE ENGINEERING"]
 
+    A --> B["SOFTWARE SYSTEMS"]
+    A --> C["PHYSICAL SYSTEMS"]
+
+    B --- D["Full-stack Development"]
+    B --- E["Backend & APIs"]
+    B --- F["AI & Machine Learning"]
+
+    C --- G["Embedded Systems"]
+    C --- H["Internet of Things (IoT)"]
+    C --- I["Hardware + Software"]
+
+    D --> J["REAL-WORLD SYSTEMS"]
+    E --> J
+    F --> J
+    G --> J
+    H --> J
+    I --> J
+
+    J --> K["Healthcare"]
+    J --> L["Agriculture"]
+    J --> M["Other Domains"]
+
+    classDef foundation fill:#1f3a5f,stroke:#58a6ff,color:#ffffff,stroke-width:2px
+    classDef software fill:#102d4f,stroke:#388bfd,color:#ffffff
+    classDef physical fill:#123524,stroke:#3fb950,color:#ffffff
+    classDef realworld fill:#35204f,stroke:#bc8cff,color:#ffffff,stroke-width:2px
+
+    class A foundation
+    class B,D,E,F software
+    class C,G,H,I physical
+    class J,K,L,M realworld
+
+    linkStyle default stroke:#8b949e,stroke-width:1.5px
+
+
+
+
+```
 
 
 ## About Me
@@ -93,50 +134,6 @@ Applying my healthcare background to identify problems where technology can impr
 
 AI / Machine Learning · Embedded Systems · IoT
 
-
-
-```mermaid
-flowchart TB
-    A["SOFTWARE ENGINEERING"]
-
-    A --> B["SOFTWARE SYSTEMS"]
-    A --> C["PHYSICAL SYSTEMS"]
-
-    B --- D["Full-stack Development"]
-    B --- E["Backend & APIs"]
-    B --- F["AI & Machine Learning"]
-
-    C --- G["Embedded Systems"]
-    C --- H["Internet of Things (IoT)"]
-    C --- I["Hardware + Software"]
-
-    D --> J["REAL-WORLD SYSTEMS"]
-    E --> J
-    F --> J
-    G --> J
-    H --> J
-    I --> J
-
-    J --> K["Healthcare"]
-    J --> L["Agriculture"]
-    J --> M["Other Domains"]
-
-    classDef foundation fill:#1f3a5f,stroke:#58a6ff,color:#ffffff,stroke-width:2px
-    classDef software fill:#102d4f,stroke:#388bfd,color:#ffffff
-    classDef physical fill:#123524,stroke:#3fb950,color:#ffffff
-    classDef realworld fill:#35204f,stroke:#bc8cff,color:#ffffff,stroke-width:2px
-
-    class A foundation
-    class B,D,E,F software
-    class C,G,H,I physical
-    class J,K,L,M realworld
-
-    linkStyle default stroke:#8b949e,stroke-width:1.5px
-
-
-
-
-```
 ---
 
 ## Featured Projects
