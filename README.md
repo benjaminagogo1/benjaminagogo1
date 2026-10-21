@@ -71,7 +71,6 @@ flowchart TB
 ## Features
 
 
-```
 
 ## About Me
 
