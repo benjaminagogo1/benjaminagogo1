@@ -229,7 +229,7 @@ I focus on building from first principles, understanding how systems work intern
 
 I'm interested not only in writing code, but in understanding how software interacts with data, networks, devices, people, and the physical world.
 
-My goal is to build systems that are useful, reliable, understandable, and capable of solving real problems.
+My goal is to build systems that are useful, reliable, understandable, and capable of solving real problems at scale.
 
 
 
