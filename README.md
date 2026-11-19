@@ -1,6 +1,6 @@
 # Otete Benjamin Agogo
 
-### Software Engineer | Full-stack Development · AI · Connected Systems
+### AI-Native Engineer | Full-stack Development · AI · Connected Systems
 
 **Engineering | AI | Healthcare**
 
